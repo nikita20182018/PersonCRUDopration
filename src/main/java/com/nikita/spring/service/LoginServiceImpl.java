@@ -19,7 +19,6 @@ public class LoginServiceImpl implements LoginService
 		this.ld=ld;
 	 }
 
-	@Override
 	public boolean checkLogin(String userName, String userPassword) {
 	
 		return ld.checkLogin(userName, userPassword);

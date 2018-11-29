@@ -32,7 +32,6 @@ public class PersonServiceImpl implements PersonService
 		
 	}
 
-	@Override
 	@Transactional
 	public Person getpersonById(int id) 
 	{
@@ -40,7 +39,6 @@ public class PersonServiceImpl implements PersonService
 		return p;
 	}
 
-	@Override
 	@Transactional
 	public void delete(int id)
 	{
@@ -49,7 +47,6 @@ public class PersonServiceImpl implements PersonService
 		
 	}
 
-	@Override
 	@Transactional
 	public List<Person> displayAll()
 	{
@@ -81,6 +78,11 @@ public class PersonServiceImpl implements PersonService
 		
 		return pd.generateOtp();
 	}
+
+//    public Person getPersonID(int personID) {
+//    
+//        return pd.getPersonId(personID);
+//    }
 
 	
 }

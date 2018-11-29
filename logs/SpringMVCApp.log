@@ -1,0 +1,220 @@
+2018-11-29 13:35:41,040 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:35:41,055 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:35:41,060 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:35:41,063 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:35:42,001 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:35:42,026 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:35:42,067 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:35:42,084 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:35:42,524 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:35:42,525 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:35:42,534 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:35:42,615 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:35:42,616 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:35:42,617 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:35:42,618 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:35:42,670 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:35:42,671 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:35:42,672 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:35:42,673 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:35:42,678 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:38:14,682 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:38:14,697 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:38:14,701 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:38:14,704 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:38:15,470 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:38:15,491 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:38:15,513 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:38:15,523 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:38:15,867 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:38:15,868 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:38:15,874 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:38:15,951 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:38:15,952 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:38:15,953 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:38:15,954 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:38:16,002 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:38:16,003 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:38:16,004 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:38:16,005 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:38:16,007 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:38:32,169 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:38:32,180 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:38:32,184 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:38:32,187 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:38:32,939 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:38:32,955 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:38:32,982 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:38:32,995 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:38:33,334 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:38:33,335 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:38:33,340 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:38:33,412 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:38:33,413 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:38:33,414 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:38:33,416 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:38:33,464 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:38:33,465 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:38:33,466 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:38:33,466 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:38:33,468 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:40:29,983 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:40:29,998 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:40:30,003 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:40:30,007 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:40:31,031 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:40:31,055 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:40:31,091 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:40:31,106 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:40:31,577 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:40:31,578 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:40:31,583 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:40:31,659 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:40:31,660 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:40:31,662 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:40:31,663 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:40:31,707 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:40:31,708 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:40:31,709 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:40:31,709 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:40:31,711 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:43:38,372 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:43:38,387 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:43:38,391 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:43:38,394 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:43:39,170 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:43:39,194 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:43:39,224 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:43:39,236 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:43:39,577 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:43:39,578 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:43:39,584 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:43:39,656 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:43:39,657 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:43:39,658 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:43:39,659 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:43:39,705 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:43:39,707 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:43:39,707 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:43:39,708 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:43:39,710 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:46:05,497 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:46:05,512 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:46:05,516 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:46:05,519 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:46:06,410 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:46:06,431 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:46:06,465 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:46:06,482 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:46:06,960 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:46:06,962 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:46:06,969 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:46:07,066 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:46:07,067 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:46:07,068 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:46:07,068 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:46:07,115 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:46:07,116 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:46:07,118 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:46:07,119 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:46:07,121 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:48:58,862 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:48:58,879 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:48:58,886 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:48:58,890 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:48:59,823 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:48:59,853 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:48:59,880 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:48:59,891 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:49:00,303 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:49:00,304 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:49:00,309 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:49:00,392 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:49:00,393 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:49:00,394 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:49:00,395 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:49:00,439 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:49:00,440 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:49:00,441 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:49:00,442 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:49:00,444 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:51:52,982 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:51:52,992 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:51:52,997 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:51:53,001 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:51:53,728 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:51:53,747 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:51:53,776 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:51:53,786 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:51:54,083 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:51:54,084 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:51:54,088 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:51:54,159 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:51:54,161 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:51:54,162 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:51:54,163 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:51:54,207 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:51:54,208 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:51:54,209 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:51:54,210 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:51:54,212 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:52:22,964 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:52:22,980 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:52:22,984 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:52:22,988 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:52:24,171 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:52:24,201 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:52:24,231 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:52:24,239 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:52:24,562 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:52:24,563 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:52:24,569 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:52:24,637 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:52:24,638 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:52:24,639 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:52:24,639 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:52:24,684 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:52:24,685 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:52:24,686 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:52:24,686 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:52:24,688 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:53:29,271 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:53:29,287 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:53:29,291 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:53:29,295 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:53:30,000 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:53:30,018 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:53:30,044 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:53:30,058 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:53:30,386 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:53:30,387 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:53:30,393 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:53:30,466 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:53:30,467 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:53:30,468 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:53:30,469 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:53:30,512 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:53:30,513 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:53:30,514 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:53:30,514 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:53:30,516 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete
+2018-11-29 13:54:02,015 +0530 [main] INFO  (Version.java:37) - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2018-11-29 13:54:02,026 +0530 [main] INFO  (Version.java:41) - HHH000412: Hibernate Core {4.2.1.Final}
+2018-11-29 13:54:02,029 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2018-11-29 13:54:02,032 +0530 [main] INFO  (Environment.java:342) - HHH000021: Bytecode provider name : javassist
+2018-11-29 13:54:02,782 +0530 [main] INFO  (Dialect.java:128) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2018-11-29 13:54:02,804 +0530 [main] INFO  (LobCreatorBuilder.java:120) - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-29 13:54:02,830 +0530 [main] INFO  (TransactionFactoryInitiator.java:68) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-11-29 13:54:02,842 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:48) - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-29 13:54:03,163 +0530 [main] INFO  (SchemaUpdate.java:182) - HHH000228: Running hbm2ddl schema update
+2018-11-29 13:54:03,164 +0530 [main] INFO  (SchemaUpdate.java:193) - HHH000102: Fetching database metadata
+2018-11-29 13:54:03,170 +0530 [main] INFO  (SchemaUpdate.java:205) - HHH000396: Updating schema
+2018-11-29 13:54:03,249 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.login
+2018-11-29 13:54:03,250 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [password, id, usename, category]
+2018-11-29 13:54:03,251 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:54:03,252 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:54:03,295 +0530 [main] INFO  (TableMetadata.java:65) - HHH000261: Table found: person.person
+2018-11-29 13:54:03,296 +0530 [main] INFO  (TableMetadata.java:66) - HHH000037: Columns: [country, fname, lname, password, cpass, phone, usertype, otp, id, email]
+2018-11-29 13:54:03,296 +0530 [main] INFO  (TableMetadata.java:68) - HHH000108: Foreign keys: []
+2018-11-29 13:54:03,297 +0530 [main] INFO  (TableMetadata.java:69) - HHH000126: Indexes: [primary]
+2018-11-29 13:54:03,298 +0530 [main] INFO  (SchemaUpdate.java:242) - HHH000232: Schema update complete

@@ -15,17 +15,17 @@
             .tg .tg-4eph{background-color:#f9f9f9}
         </style>
     </head>
-    <body style="background-color:#D8D8D8" >
+    <body style="background-image: url('https://s3.envato.com/files/228789095/Preview.jpg');" >
         <h1>
             Edit a Persons Details
         </h1>
 
-        <form   method="post" commandName="person" >
+        <form action="editEmployee"  method="post" commandName="person" >
             <table align="center">
 
 
                 <tr bordercolor="red">
-                    <td>
+                    <td style="color:white">
                         <label path="id">
                             <spring:message text="ID"/>
                         </label>
@@ -38,7 +38,7 @@
                 </tr>
 
                 <tr>
-                    <td>
+                    <td style="color:white">
                         <label path="fname">
                             <spring:message text="First Name"/>
                         </label>
@@ -49,7 +49,7 @@
                     </td> 
                 </tr>
                 <tr >
-                    <td>
+                    <td style="color:white">
                         <label path="lname">
                             <spring:message text="Last Name"/>
                         </label>
@@ -59,7 +59,7 @@
                     </td>
                 </tr>
                 <tr >
-                    <td>
+                    <td style="color:white">
                         <label path="country">
                             <spring:message text="Country"/>
                         </label>
@@ -70,7 +70,7 @@
                 </tr>
 
                 <tr >
-                    <td>
+                    <td style="color:white">
                         <label path="phone">
                             <spring:message text="Phone no."/>
                         </label>
@@ -81,7 +81,7 @@
                 </tr>
 
                 <tr >
-                    <td>
+                    <td style="color:white">
                         <label path="email">
                             <spring:message text="Email_ID"/>
                         </label>
@@ -92,7 +92,7 @@
                 </tr>
 
                 <tr >
-                    <td>
+                    <td style="color:white">
                         <label path="password">
                             <spring:message text="Password"/>
                         </label>
@@ -103,7 +103,7 @@
                 </tr>
 
                 <tr >
-                    <td>
+                    <td style="color:white">
                         <label path="cpass">
                             <spring:message text="Confirm_Password"/>
                         </label>
@@ -114,7 +114,7 @@
                 </tr>
 
                 <tr >
-                    <td>
+                    <td style="color:white">
                         <label path="userType">
                             <spring:message text="User Type"/>
                         </label>
@@ -131,7 +131,7 @@
                     <td colspan="2">
 
                         <input type = "submit" value = "Edit Person"/>
-                        <a href='edituser/${person.id}' ></a>
+                        <a href='edit/${person.id}' ></a>
 
                     </td>
 

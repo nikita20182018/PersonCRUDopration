@@ -3,7 +3,7 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
 <%@ page session="false" %>
 <html>
-<<<<<<< HEAD
+
 <head>
 <meta charset="ISO-8859-1">
 <title>Login Page</title>
@@ -54,10 +54,14 @@
 					</td>
 					
 					</tr>
-				
+					<tr>
+					<td><a href='changepassword'>Forgot password</a></td>
+					
+					</tr>
+			
 		</table>
 	   
-	
+		<a href='changepassword'>Forgot password</a>
 		</form:form>
 	
 </body>

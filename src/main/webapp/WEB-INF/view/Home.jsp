@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Home</title>
 </head>
-<body style="background-image: url('http://storage.cloversites.com/evangeltemple2/site_images/page3_picture0_1388523616.jpg'); " >
+<body style="background-image: url('http://storage.cloversites.com/evangeltemple2/site_images/page3_picture0_1388523616.jpg');">
 <form:form action="login"  commandName="login"> 
 
 <table align="center">

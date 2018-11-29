@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import org.hibernate.validator.constraints.NotEmpty;
+ 
 
 @Entity
 @Table(name="Login")
@@ -18,7 +18,7 @@ public class Login
     @GeneratedValue(strategy=GenerationType.IDENTITY)
    
     private int id;
-    @NotEmpty
+  
 	private String Usename;
 	private String password;
 	private String category;
